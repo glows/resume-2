@@ -1,2 +1,98 @@
 Hugo Vieilledent
-hugo.vieilledent@gmail.com  — +4915731460179 —
+hugo.vieilledent@gmail.com  — +4915731460179
+46 Mainzer Strasse 12053 — Berlin
+[[http://hugovieilledent.com][hugovieilledent.com]] — [[https://github.com/hugovieilledent][github/hugovieilledent]]
+
+------
+* Experience
+** Frontend and UX web Developer
+*** Bright
+Sep 2015 – May 2016 (Berlin, Gernamy)
+- Built the frontend of Bright's platform, an Ember consumer-facing SPA
+- Worked to a MVP, iterated over features
+- Understanding of how a modern web application works end-to-end. Architected an Ember pre-2.x application from scratch and kept the product up to date with the latest Ember stable release versions (up to 2.5.x)
+- Developed and designed all the platform interface and UX
+- Develop and document a clean and reusable SCSS styleguide and HTML5 markup
+- Worked closely with backend engineers on the API design for new features
+- Cross-browser compatibility
+- Work on preventing web client security issues, common attacks, prevention and implementing best practices
+
+** Frontend and UX web Developer
+*** Kopfwelt
+Feb 2013 – Aug 2015 (Berlin, Germany)
+With a small team we developed and maintained many websites of various sizes for a number of small and big clients; focusing on clean UX, for the consumer-facing parts but also the CMS side. We took pride finding creative and simple solutions, for instance to offer CMS-side complete customization of page layouts on http://lodownmagazine.com.
+- Project planification and budgetisation, team management
+- HTML5 markup, Object Orientated CSS3 (OOCSS), SUIT CSS naming convention
+- Javascript + frontend frameworks experiences
+- Ember, Ember-cli and addons, Ember-data, jQuery
+- Responsive design, mobile first, fluid layouts
+- Contextual and Progressive enhancement
+- Convert Photoshop / InDesign / Sketch to pixel perfect code
+- Internalisation (l18n) and Localisation (l10n)
+- Full cross-browser/cross-device/cross-platform design implementation and testing
+- Workflow with Grunt, Gulp, Bower, Yeoman, Node/NPM, require.js
+- Responsive images
+- Preprocessor (SASS, LESS) and templating engines (Jade, Haml, Handelbars)
+- GIT for source control management
+- Drupal, Wordpress, Tumblr (as CMS)
+- Implementation of Google Analytics, Disqus, frontend Form services
+- Communication with design, product, and other groups with the external clients 
+
+** Intellectual Property Lawyer Intern
+*** Hastatis
+Jan 2012 – Mar 2012 ()Montpellier, France)
+- Define and document aspects of a legal protection strategy for the copany's incoming main product (a CRM software)
+- Write a report on Intellectual Property (present and future) assets surrounding the company activities (patents, trademarks, domain names, logos...)
+- Prepare Trademarks declarations and domain names registration
+- Review of employment contracts, focus on IP rights and confidentiality terms
+- Research and document Copyrights on written source codes, as existing legal protections of used open source projects
+- Organize and run training sessions to teams members in order communicate IP and legal concepts
+- Organize the recruitment process for software developers interns
+- Initiative to create and maintain a company knowledge base, know-how of various resources to support the teams and new employees aclimation
+- Web development for in house projects 
+
+** Legal Assistant at Legal and Town Planing departements
+*** Millau Town Council
+Jun 2008 – Jul 2008 (Millau, France)
+- Support the Legal Team in functions including administrative tasks, correspondence, document generation
+- Conduct legal research and draft documents
+- Respond to internal and external legal inquiries 
+
+* Education
+** Master's degree (2), Intellectual Property Law
+*** Université Montpellier I
+2011 – 2012
+Provides in depth knowledge and practical skills relating to industrial, literary and artistic property rights for France, Europe and International scenes. Deep interest in Web related matters.
+- trademark and patent
+- copyright and artistic protection
+- design protection
+- international architecture of Intellectual Property
+- counterfeiting and IP legal actions
+- IP contracts
+Master’s thesis: Copyright and Open Science, study of scientific edition - "Le droit d'auteur face à l'Open Science - Le Libre au soutien du droit d'auteur dans le marché de l'édition scientifique" 
+
+
+** Master's degree (1), Political Science and International Relations
+*** Københavns Universitet
+2010 – 2011
+Courses including Political Analysis, International Relations, International Ethics, Scandinavian Political Systems, Xenophobia and Extreme Right, Cinema and Extreme Right
+Aside university I decided to create a web platform to help foreign
+students getting in touch with each other, share tips and housing
+offers, sell their furnitures. It was a ±3000 people community after
+one semester 
+
+
+
+** Bachelor's degree, Political Science and Public Administration
+*** Université Montpellier I
+2009 – 2010
+
+Year project: quantitative researches and qualitative methods‎ to build
+a sociography of the french regions' parliamentary representatives. I
+also developed and taught a workflow -for a flawless group work (10
+people)- using collaborating tools such as Dropbox and Google apps 
+
+* Other
+English (bilingual proficiency), German (elementary proficiency),
+French (mother tongue), Spanish (profressional proficiency)
+
