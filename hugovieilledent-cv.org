@@ -34,7 +34,8 @@ from scratch and kept the product up to date with the latest Ember
 stable releases (up to 2.5.x).
 
 - Understanding of how a modern web application works end-to-end. 
-- Develop and document a clean and reusable SCSS styleguide and HTML5 markup
+- Develop and document a clean and reusable SCSS styleguide and HTML5
+  components
 - Worked closely with backend engineers on the API design for new
   features; also on preventing web client security common attacks by
   implementing best practices
