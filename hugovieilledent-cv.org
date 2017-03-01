@@ -1,7 +1,7 @@
 #+TITLE: Curiculum Vitae
 #+AUTHOR: Hugo Vieilledent
 #+KEYWORDS: vita, CV, resume
-#+OPTIONS: toc:nil num:nil
+#+OPTIONS: toc:nil num:nil 
 
 - hugo.vieilledent@gmail.com
 - +4915731460179
@@ -9,12 +9,11 @@
 - [[http://hugovieilledent.com]]
 - [[https://github.com/hugovieilledent]]
 
------
 * Experience
-** Frontend and UX web Developer (brig.ht)
-Sep 2015 – May 2016 (Berlin, Gernamy)
-Developped and designed the frontend of Bright's platform, interface
+** Frontend and UX web Developer
+Sep 2015 – May 2016, [[https://brig.ht]] (Berlin, Gernamy)
 
+Developed and designed the frontend of Bright's platform, interface
 and UX for an Ember consumer-facing SPA.
 - Understanding of how a modern web application works
   end-to-end. Architected an Ember pre-2.x application from scratch
@@ -25,8 +24,9 @@ and UX for an Ember consumer-facing SPA.
 - Cross-browser compatibility
 - Work on preventing web client security issues, common attacks, prevention and implementing best practices
 
-** Frontend and UX web Developer (kopfwelt.com)
-Feb 2013 – Aug 2015 (Berlin, Germany)
+** Frontend and UX web Developer
+Feb 2013 – Aug 2015, [[https://kopfwelt.com]] (Berlin, Germany)
+
 Within a small team, developed and maintained many websites of various
 sizes for a number of small and big clients; focusing on clean UX, for
 the consumer-facing parts but also the CMS side. We took pride finding
@@ -50,14 +50,15 @@ customization of page layouts on http://lodownmagazine.com.
 - Implementation of Google Analytics, Disqus, frontend Form services
 - Communication with design, product, and other groups with the external clients 
 
-** Product Developper (internet4000.com)
-Aug 2014 - current (remote)
+** Product Developer 
+Aug 2014 - current, [[http://internet4000.com]] (Berlin, remote)
+
 Team of two collaborating on the development of tools and
 services. Active projects include a music discovery website
 [[radio4000.com]], an online vinyl store search engine [[lpepfinder.com]].
 
-** Intellectual Property Lawyer Intern (hastatis.com)
-Jan 2012 – Mar 2012 (Montpellier, France)
+** Intellectual Property Lawyer Intern
+Jan 2012 – Mar 2012, [[http://hastatis.com]] (Montpellier, France)
 
 - Define and document aspects of a legal protection strategy for the copany's incoming main product (a CRM software)
 - Write a report on Intellectual Property (present and future) assets surrounding the company activities (patents, trademarks, domain names, logos...)
@@ -69,19 +70,16 @@ Jan 2012 – Mar 2012 (Montpellier, France)
 - Initiative to create and maintain a company knowledge base, know-how of various resources to support the teams and new employees aclimation
 - Web development for in house projects 
 
-** Legal Assistant at Legal and Town Planing departements (Millau Town Council)
-Jun 2008 – Jul 2008 (Millau, France)
+** Legal Assistant at Legal and Town Planing departements
+Jun 2008 – Jul 2008, Millau Town Council (Millau, France)
 
 - Support the Legal Team in functions including administrative tasks, correspondence, document generation
 - Conduct legal research and draft documents
 - Respond to internal and external legal inquiries 
-
-
-
------
+  
 * Education
-** Master's degree, Intellectual Property Law (Université Montpellier I, France)
-2011 – 2012
+** Master's degree, Intellectual Property Law
+2011 – 2012, Université Montpellier I (France)
 
 Provides in depth knowledge and practical skills relating to
 industrial, literary and artistic property rights for France, Europe
@@ -96,8 +94,8 @@ Master’s thesis: Copyright and Open Science, study of scientific
 edition - "Le droit d'auteur face à l'Open Science - Le Libre au
 soutien du droit d'auteur dans le marché de l'édition scientifique".
 
-** Master's degree, Political Science and International Relations (Københavns Universitet, Denmark)
-2010 – 2011
+** Master's degree, Political Science and International Relations
+2010 – 2011, Københavns Universitet (Denmark)
 
 Courses including Political Analysis, International Relations,
 International Ethics, Scandinavian Political Systems, Xenophobia and
@@ -107,16 +105,20 @@ students getting in touch with each other, share tips and housing
 offers, sell their furnitures. It was a ±3000 people community after
 one semester.
 
-** Bachelor's degree, Political Science and Public Administration (Université Montpellier I, France)
-2009 – 2010
+** Bachelor's degree, Political Science and Public Administration
+2009 – 2010, Université Montpellier I ( France)
 
 Year project: quantitative researches and qualitative methods‎ to build
 a sociography of the french regions' parliamentary representatives. I
 also developed and taught a workflow —for flawless group work (10
 people)— using collaborating tools such as Dropbox and Google apps.
 
------
-* Languages
-English (bilingual proficiency), German (elementary proficiency),
-French (mother tongue), Spanish (profressional proficiency)
-
+* Other
+** Natural languages
+- English (bilingual proficiency)
+- German (elementary proficiency),
+- French (mother tongue)
+- Spanish (profressional proficiency)
+** Miscellaneous
+- Driving licences (car, motorcycle)
+- Music producer and dj, [[http://200okrecords.com]]
