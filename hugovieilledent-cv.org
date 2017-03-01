@@ -11,22 +11,23 @@
 
 -----
 * Experience
-** Frontend and UX web Developer (Bright)
+** Frontend and UX web Developer (brig.ht)
 Sep 2015 – May 2016 (Berlin, Gernamy)
+Developped and designed the frontend of Bright's platform, interface
 
-- Built the frontend of Bright's platform, an Ember consumer-facing SPA
-- Worked to a MVP, iterated over features
-- Understanding of how a modern web application works end-to-end. Architected an Ember pre-2.x application from scratch and kept the product up to date with the latest Ember stable release versions (up to 2.5.x)
-- Developed and designed all the platform interface and UX
+and UX for an Ember consumer-facing SPA.
+- Understanding of how a modern web application works
+  end-to-end. Architected an Ember pre-2.x application from scratch
+  and kept the product up to date with the latest Ember stable release
+  versions (up to 2.5.x)
 - Develop and document a clean and reusable SCSS styleguide and HTML5 markup
 - Worked closely with backend engineers on the API design for new features
 - Cross-browser compatibility
 - Work on preventing web client security issues, common attacks, prevention and implementing best practices
 
-** Frontend and UX web Developer (Kopfwelt)
+** Frontend and UX web Developer (kopfwelt.com)
 Feb 2013 – Aug 2015 (Berlin, Germany)
-
-With a small team we developed and maintained many websites of various
+Within a small team, developed and maintained many websites of various
 sizes for a number of small and big clients; focusing on clean UX, for
 the consumer-facing parts but also the CMS side. We took pride finding
 creative and simple solutions, for instance to offer CMS-side complete
@@ -49,7 +50,13 @@ customization of page layouts on http://lodownmagazine.com.
 - Implementation of Google Analytics, Disqus, frontend Form services
 - Communication with design, product, and other groups with the external clients 
 
-** Intellectual Property Lawyer Intern (Hastatis)
+** Product Developper (internet4000.com)
+Aug 2014 - current (remote)
+Team of two collaborating on the development of tools and
+services. Active projects include a music discovery website
+[[radio4000.com]], an online vinyl store search engine [[lpepfinder.com]].
+
+** Intellectual Property Lawyer Intern (hastatis.com)
 Jan 2012 – Mar 2012 (Montpellier, France)
 
 - Define and document aspects of a legal protection strategy for the copany's incoming main product (a CRM software)
@@ -76,32 +83,37 @@ Jun 2008 – Jul 2008 (Millau, France)
 ** Master's degree, Intellectual Property Law (Université Montpellier I, France)
 2011 – 2012
 
-Provides in depth knowledge and practical skills relating to industrial, literary and artistic property rights for France, Europe and International scenes. Deep interest in Web related matters.
+Provides in depth knowledge and practical skills relating to
+industrial, literary and artistic property rights for France, Europe
+and International scenes. Deep interest in Web related matters.
 - trademark and patent
 - copyright and artistic protection
 - design protection
 - international architecture of Intellectual Property
 - counterfeiting and IP legal actions
 - IP contracts
-Master’s thesis: Copyright and Open Science, study of scientific edition - "Le droit d'auteur face à l'Open Science - Le Libre au soutien du droit d'auteur dans le marché de l'édition scientifique" 
+Master’s thesis: Copyright and Open Science, study of scientific
+edition - "Le droit d'auteur face à l'Open Science - Le Libre au
+soutien du droit d'auteur dans le marché de l'édition scientifique".
 
 ** Master's degree, Political Science and International Relations (Københavns Universitet, Denmark)
 2010 – 2011
 
-Courses including Political Analysis, International Relations, International Ethics, Scandinavian Political Systems, Xenophobia and Extreme Right, Cinema and Extreme Right
+Courses including Political Analysis, International Relations,
+International Ethics, Scandinavian Political Systems, Xenophobia and
+Extreme Right, Cinema and Extreme Right.
 Aside university I decided to create a web platform to help foreign
 students getting in touch with each other, share tips and housing
 offers, sell their furnitures. It was a ±3000 people community after
-one semester 
+one semester.
 
 ** Bachelor's degree, Political Science and Public Administration (Université Montpellier I, France)
 2009 – 2010
 
 Year project: quantitative researches and qualitative methods‎ to build
 a sociography of the french regions' parliamentary representatives. I
-also developed and taught a workflow -for a flawless group work (10
-people)- using collaborating tools such as Dropbox and Google apps 
-
+also developed and taught a workflow —for flawless group work (10
+people)— using collaborating tools such as Dropbox and Google apps.
 
 -----
 * Languages
