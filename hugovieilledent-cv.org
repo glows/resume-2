@@ -10,22 +10,19 @@
 - [[https://github.com/hugovieilledent]]
 
 Thinking and developing honest tools, services and products is what I
-enjoy.
-As a front-end developer I put emphasis upon user experiences and
-cross platform usages, whereas a product developer I focus on building
-self-explaining easy to use yet powerful tools.
-My goal is to always discover more to understand and explain.
+enjoy. As a front-end developer I put emphasis upon user experiences
+and cross platform usages, whereas a product developer I focus on
+building self-explaining easy to use yet powerful tools. My goal is to
+always discover more to understand and explain.
 
-| javascript frameworks | ember[data, cli], jQuery, react (notions)  |
-| server                | express.js, micro.js                       |
-| CSS                   | Object Orientated CSS3 (OOCSS), SASS, LESS |
-|                       | SUIT CSS naming convention                 |
-| markup languages      | HTML5, handlebars, jade, haml              |
-| frontend tools        | npm, bower, grunt, gulp, yeoman            |
-| serivces              | google analytics, disqus, form as services |
-| softwares             | sketch, photoshop, inDesign                |
-| other                 | git, emacs                                 |
-| CMS                   | drupal, wordpress, tumblr                  |
+| javascript frameworks | ember[data, cli], jQuery, react (notions)   |
+| server                | express.js, micro.js                        |
+| CSS                   | Object Orientated CSS3 (OOCSS), SASS, LESS  |
+|                       | SUIT CSS naming convention                  |
+| markup languages      | HTML5, handlebars, jade, haml               |
+| tools                 | git, npm, bower, grunt, gulp, yeoman, emacs |
+| CMS                   | drupal, wordpress, tumblr                   |
+| softwares             | sketch, photoshop, inDesign                 |
 
 * Experience
 ** Frontend UX web Developer
@@ -46,7 +43,7 @@ stable releases (up to 2.5.x).
 Feb 2013 – Aug 2015, [[https://kopfwelt.com]] (Berlin, Germany)
 
 Developed and maintained many client websites, for small and bigger
-clients; focusing on clean and effective UX. We took pride in finding
+clients, focusing on clean and effective UX. We took pride in finding
 creative and simple solutions, for instance to offer CMS-side complete
 customization of page layouts on http://lodownmagazine.com.
 
@@ -90,7 +87,6 @@ Support to the Legal Team conducting legal researches and document
 drafting; administrative tasks, legal correspondences in 
 internal and external legal inquiries 
   
-----------
 * Education
 ** Master's degree, Intellectual Property Law
 2011 – 2012, Université Montpellier I (France)
@@ -128,16 +124,8 @@ a sociography of the french regions' parliamentary representatives. I
 also developed and taught a workflow —for flawless group work (10
 people)— using collaborating tools such as Dropbox and Google apps.
 
-
-----------
 * Other
-** Natural languages
-- English: bilingual proficiency
-- German: elementary proficiency
-- French: mother tongue
-- Spanish: professional proficiency
-- Esperanto: can count
-
-** Miscellaneous
+- English (bilingual proficiency), german (elementary proficiency),
+  french (mother tongue), spanish (professional proficiency)
 - Driving licences (car, motorcycle)
 - Music producer and dj, [[http://200okrecords.com]]
