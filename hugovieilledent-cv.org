@@ -3,11 +3,10 @@
 #+KEYWORDS: vita, CV, resume
 #+OPTIONS: toc:nil num:nil 
 
-- hugo.vieilledent@gmail.com
-- +4915731460179
-- 46 Mainzer Strasse 12053, Berlin
-- [[http://hugovieilledent.com]]
-- [[https://github.com/hugovieilledent]]
+| hugo.vieilledent@gmail.com         | +4915731460179 |
+| 46 Mainzer Strasse 12053           |         Berlin |
+| [[http://hugovieilledent.com]]         |                |
+| [[https://github.com/hugovieilledent]] |                |
 
 Thinking and developing honest tools, services and products is what I
 enjoy. As a front-end developer I put emphasis upon user experiences
@@ -15,15 +14,16 @@ and cross platform usages, whereas a product developer I focus on
 building self-explaining easy to use yet powerful tools. My goal is to
 always discover more to understand and explain.
 
-| javascript frameworks | ember[data, cli], jQuery, react (notions)   |
+| javascript frameworks | ember[data, cli], jquery, react (notions)   |
 | server                | express.js, micro.js                        |
-| CSS                   | Object Orientated CSS3 (OOCSS), SASS, LESS  |
-|                       | SUIT CSS naming convention                  |
-| markup languages      | HTML5, handlebars, jade, haml               |
+| css                   | object orientated css3 (oocss), sass, less  |
+|                       | suit css naming convention                  |
+| markup languages      | html5, handlebars, jade, haml               |
 | tools                 | git, npm, bower, grunt, gulp, yeoman, emacs |
-| CMS                   | drupal, wordpress, tumblr                   |
-| softwares             | sketch, photoshop, inDesign                 |
+| cms                   | drupal, wordpress, tumblr                   |
+| softwares             | sketch, photoshop, indesign                 |
 
+-----
 * Experience
 ** Frontend UX web Developer
 Sep 2015 – May 2016, [[https://brig.ht]] (Berlin, Gernamy)
@@ -78,7 +78,6 @@ trademarks, domain names, identity...).
   communicate IP and legal concepts
 - Started a company knowledge base to support the teams and recruits
 
-
 ** Legal Assistant
 Jun 2008 – Jul 2008, Millau Town Council's Legal and Town Planing
 departements (Millau, France)
@@ -104,7 +103,6 @@ and International regions. Deep interest in Web related matters.
 Master’s thesis: Copyright and Open Science, study of scientific
 edition (Le droit d'auteur face à l'Open Science - Le Libre au
 soutien du droit d'auteur dans le marché de l'édition scientifique).
-
 
 ** Master's degree, Political Science and International Relations
 2010 – 2011, Københavns Universitet (Denmark)
