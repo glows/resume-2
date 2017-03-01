@@ -29,7 +29,7 @@ Feb 2013 – Aug 2015, [[https://kopfwelt.com]] (Berlin, Germany)
 
 Within a small team, developed and maintained many websites of various
 sizes for a number of small and big clients; focusing on clean UX, for
-the consumer-facing parts but also the CMS side. We took pride finding
+the consumer-facing parts but also the CMS side. We took pride in finding
 creative and simple solutions, for instance to offer CMS-side complete
 customization of page layouts on http://lodownmagazine.com.
 
@@ -118,7 +118,7 @@ people)— using collaborating tools such as Dropbox and Google apps.
 - English (bilingual proficiency)
 - German (elementary proficiency),
 - French (mother tongue)
-- Spanish (profressional proficiency)
+- Spanish (professional proficiency)
 ** Miscellaneous
 - Driving licences (car, motorcycle)
 - Music producer and dj, [[http://200okrecords.com]]
