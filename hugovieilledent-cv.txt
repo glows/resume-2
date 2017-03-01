@@ -1,0 +1,167 @@
+			   __________________
+
+			    CURICULUM VITAE
+
+			    Hugo Vieilledent
+			   __________________
+
+
+ hugo.vieilledent@gmail.com            +4915731460179 
+ 46 Mainzer Strasse 12053              Berlin         
+ [http://hugovieilledent.com]                         
+ [https://github.com/hugovieilledent]                 
+
+Thinking and developing honest tools, services and products is what I
+enjoy. As a front-end developer I put emphasis upon user experiences and
+cross platform usages, whereas a product developer I focus on building
+self-explaining easy to use yet powerful tools. My goal is to always
+discover more to understand and explain.
+
+ javascript frameworks  ember[data, cli], jquery, react (notions)   
+ server                 express.js, micro.js                        
+ css                    object orientated css3 (oocss), sass, less  
+                        suit css naming convention                  
+ markup languages       html5, handlebars, jade, haml               
+ tools                  git, npm, bower, grunt, gulp, yeoman, emacs 
+ cms                    drupal, wordpress, tumblr                   
+ softwares              sketch, photoshop, indesign                 
+
+------------------------------------------------------------------------
+
+
+Experience
+==========
+
+Frontend UX web Developer
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+  Sep 2015 – May 2016, [https://brig.ht] (Berlin, Gernamy)
+
+  Developed and designed the consumer-facing frontend of Bright's
+  platform, interface and UX. Architected an Ember pre-2.x application
+  from scratch and kept the product up to date with the latest Ember
+  stable releases (up to 2.5.x).
+
+  - Understanding of how a modern web application works end-to-end.
+  - Develop and document a clean and reusable SCSS styleguide and HTML5
+    components
+  - Worked closely with backend engineers on the API design for new
+    features; also on preventing web client security common attacks by
+    implementing best practices
+
+
+Frontend web Developer
+~~~~~~~~~~~~~~~~~~~~~~
+
+  Feb 2013 – Aug 2015, [https://kopfwelt.com] (Berlin, Germany)
+
+  Developed and maintained many client websites, for small and bigger
+  clients, focusing on clean and effective UX. We took pride in finding
+  creative and simple solutions, for instance to offer CMS-side complete
+  customization of page layouts on [http://lodownmagazine.com].
+
+  - Project planification and budgetisation, team management
+  - Responsive design, pixel perfect, mobile first, fluid layouts
+  - Contextual and progressive enhancement, responsive images
+  - Internalisation (l18n) and Localisation (l10n)
+  - Full cross-browser/cross-device/cross-platform design implementation
+    and testing
+  - External communication with the design, product, and other groups
+    with the external clients
+
+
+Product Developer
+~~~~~~~~~~~~~~~~~
+
+  Aug 2014 - current, [http://internet4000.com] (Berlin, remote)
+
+  Team of two collaborating on the development of tools and
+  services. Active projects include a music discovery website
+  [https://radio4000.com], an online vinyl store search engine
+  [http://lpepfinder.com].
+
+
+Intellectual Property Lawyer Intern
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+  Jan 2012 – Mar 2012, [http://hastatis.com] (Montpellier, France)
+
+  Defined and document aspects of a legal protection strategy for the
+  company's incoming main product, a CRM software. Wrote a report on the
+  compagny's Intellectual Property present and future assets (patents,
+  trademarks, domain names, identity...).
+
+  - Prepare Trademarks declarations and domain names registration
+  - Review employment contracts, focus on IP rights and confidentiality
+    terms; organize the recruitment process
+  - Research and document Copyrights on written and used source codes
+  - Organize and run training sessions to teams members in order to
+    communicate IP and legal concepts
+  - Started a company knowledge base to support the teams and recruits
+
+
+Legal Assistant
+~~~~~~~~~~~~~~~
+
+  Jun 2008 – Jul 2008, Millau Town Council's Legal and Town Planing
+  departements (Millau, France)
+
+  Support to the Legal Team conducting legal researches and document
+  drafting; administrative tasks, legal correspondences in internal and
+  external legal inquiries
+
+
+Education
+=========
+
+Master's degree, Intellectual Property Law
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+  2011 – 2012, Université Montpellier I (France)
+
+  Provides in depth knowledge and practical skills relating to
+  industrial, literary and artistic property rights for France, Europe
+  and International regions. Deep interest in Web related matters.
+
+  - trademark and patent
+  - copyright and artistic protection
+  - design protection
+  - international architecture of Intellectual Property
+  - counterfeiting and IP legal actions
+  - IP contracts
+  Master’s thesis: Copyright and Open Science, study of scientific
+  edition (Le droit d'auteur face à l'Open Science - Le Libre au soutien
+  du droit d'auteur dans le marché de l'édition scientifique).
+
+
+Master's degree, Political Science and International Relations
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+  2010 – 2011, Københavns Universitet (Denmark)
+
+  Courses including Political Analysis, International Relations,
+  International Ethics, Scandinavian Political Systems, Xenophobia and
+  Extreme Right, Cinema and Extreme Right.  As a side-project I created
+  a web platform to help foreign students getting in touch with each
+  other, share tips and housing offers, sell their furnitures. It was a
+  ±3000 people community after one semester.
+
+
+Bachelor's degree, Political Science and Public Administration
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+  2009 – 2010, Université Montpellier I ( France)
+
+  Year project: quantitative researches and qualitative methods‎ to build
+  a sociography of the french regions' parliamentary representatives. I
+  also developed and taught a workflow —for flawless group work (10
+  people)— using collaborating tools such as Dropbox and Google apps.
+
+
+Other
+=====
+
+  - English (bilingual proficiency), german (elementary proficiency),
+    french (mother tongue), spanish (professional proficiency)
+  - Driving licences (car, motorcycle)
+  - Music producer and dj, [http://200okrecords.com]
