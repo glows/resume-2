@@ -1,4 +1,5 @@
 Resume for [[http://hugovieilledent.com/resume.txt]].
+
 Written with emacs's org-mode.
 
 - export to `.txt` with `C-c C-e t A`
