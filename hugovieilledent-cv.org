@@ -21,7 +21,8 @@ always discover more to understand and explain.
 | markup languages      | html5, handlebars, jade, haml               |
 | tools                 | git, npm, bower, grunt, gulp, yeoman, emacs |
 | cms                   | drupal, wordpress, tumblr                   |
-| softwares             | sketch, photoshop, indesign                 |
+| softwares             | sketch, photoshop, indesign, blender        |
+|                       |                                             |
 
 -----
 * Experience
