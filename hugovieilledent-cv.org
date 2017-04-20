@@ -58,7 +58,7 @@ customization of page layouts on http://lodownmagazine.com.
   external clients
 
 ** Product Developer 
-Aug 2014 - current, [[http://internet4000.com]] (Berlin, remote)
+Aug 2014 - current, [[https://internet4000.com]] (Berlin, remote)
 
 Team of two collaborating on the development of tools and
 services. Active projects include a music discovery website
