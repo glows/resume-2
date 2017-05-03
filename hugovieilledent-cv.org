@@ -15,14 +15,13 @@ building self-explaining easy to use yet powerful tools. My goal is to
 always discover more to understand and explain.
 
 | javascript frameworks | ember[data, cli], jquery, react (notions)   |
-| server                | express.js, micro.js                        |
+| server                | node,js express.js, micro.js                |
 | css                   | object orientated css3 (oocss), sass, less  |
 |                       | suit css naming convention                  |
 | markup languages      | html5, handlebars, jade, haml               |
 | tools                 | git, npm, bower, grunt, gulp, yeoman, emacs |
 | cms                   | drupal, wordpress, tumblr                   |
-| softwares             | sketch, photoshop, indesign, blender        |
-|                       |                                             |
+| softwares             | sketch, photoshop, indesign, gimp, blender  |
 
 -----
 * Experience
