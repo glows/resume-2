@@ -25,6 +25,14 @@ always discover more to understand and explain.
 
 -----
 * Experience
+** Product Developer 
+Aug 2014 - current, [[https://internet4000.com]] (Berlin, remote)
+
+Team of two collaborating on the development of tools and
+services. Active projects include a music discovery website
+[[https://radio4000.com]], an online vinyl store search engine
+[[https://lpepfinder.com]].
+
 ** Frontend UX web Developer
 Sep 2015 – May 2016, [[https://brig.ht]] (Berlin, Gernamy)
 
@@ -55,14 +63,6 @@ customization of page layouts on http://lodownmagazine.com.
 - Full cross-browser/cross-device/cross-platform design implementation and testing
 - External communication with the design, product, and other groups with the
   external clients
-
-** Product Developer 
-Aug 2014 - current, [[https://internet4000.com]] (Berlin, remote)
-
-Team of two collaborating on the development of tools and
-services. Active projects include a music discovery website
-[[https://radio4000.com]], an online vinyl store search engine
-[[https://lpepfinder.com]].
 
 ** Intellectual Property Lawyer Intern
 Jan 2012 – Mar 2012, [[http://hastatis.com]] (Montpellier, France)
