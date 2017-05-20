@@ -22,7 +22,7 @@ always discover more to understand and explain.
 | markup languages    | html5, jsx, handlebars, jade, haml         |
 | tools               | make, git, npm, browserify, bower          |
 |                     | grunt, gulp, yeoman, emacs                 |
-| databases           | firebase                                   |
+| databases           | firebase (db, auth, rules)                 |
 | cms                 | drupal, wordpress, tumblr                  |
 | softwares           | sketch, photoshop, indesign, gimp, blender |
 | os                  | linux (arch, ubuntu), osx                  |
