@@ -32,9 +32,9 @@ always discover more to understand and explain.
 ** Product Developer 
 Aug 2014 - current, [[https://internet4000.com]] (Berlin, remote)
 
-Team of two collaborating on the development of tools and
-services. Active projects include a music discovery website
-[[https://radio4000.com]], an online vinyl store search engine
+Development of tools and services with backend-as-a-service and 
+frontend frameworks (react, ember, vue); such as a music discovery community
+[[https://radio4000.com]], and an online vinyl store search engine
 [[https://lpepfinder.com]].
 
 ** Frontend UX web Developer
